@@ -1,4 +1,4 @@
-# <p align="center"> *Hello!!<img src="./assets/wave.gif" alt="waving hand" width="30px">I'm Priyanshu* 🚀</p>
+# <p align="center"> *Hello!!<img src="./assets/wave.gif" alt="waving hand" width="30px">I'm Neha* 🚀</p>
 
 </br>
 <img align="right" alt="coding" width="250"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
@@ -27,10 +27,10 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> *Reach out to me:*
 
 <p align="center">
-<a href="https://www.linkedin.com/in/priyanshumaurya//" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Priyanshu" /></a>
-<a href="https://github.com/priyanshumaurya007" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Priyanshu-linkedin" /></a>
+<a href="www.linkedin.com/in/neha-kumari-65ba151b5" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Neha" /></a>
+<a href="https://github.com/Neha0512" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Neha-linkedin" /></a>
 <!-- <a href="https://twitter.com/prrvishal" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?logoWidth=40style=flat-square&logo=Twitter&logoColor=white" alt="Priyanshu" /></a> -->
-<a href="mailto:priyanshumaurya007@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logoWidth=40style=flat-square&logo=Gmail&logoColor=white" alt="Priyanshu-mail" /></a>
+<a href="mailto:78rakes@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logoWidth=40style=flat-square&logo=Gmail&logoColor=white" alt="neha-mail" /></a>
 
 </p>
 
@@ -38,11 +38,11 @@
 
 </br>
 <p align="center">
- <a href="https://github.com/priyanshumaurya007">
-  <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumaurya007&show_icons=true&theme=radical&count_private=true">
+ <a href="https://github.com/Neha0512">
+  <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Neha0512&show_icons=true&theme=radical&count_private=true">
  </a>
 
- <a href="https://github.com/priyanshumaurya007/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priyanshumaurya007&layout=compact&theme=radical&langs_count=6" />
+ <a href="https://github.com/Neha0512/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Neha0512&layout=compact&theme=radical&langs_count=6" />
  </a>
 </p>

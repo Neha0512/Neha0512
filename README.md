@@ -1,4 +1,4 @@
-# <p align="center"> *Hello!!<img src="./assets/wave.gif" alt="waving hand" width="30px">I'm Neha* 🚀</p>
+# <p align="center"> *Hello!!  <img src="./assets/wave.gif" alt="waving hand" width="30px">I'm Neha* 🚀</p>
 
 </br>
 <img align="right" alt="coding" width="250"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
@@ -13,7 +13,7 @@
 </br>
 </br>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=priyanshumaurya007&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Neha0512&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 </br>
@@ -27,9 +27,9 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> *Reach out to me:*
 
 <p align="center">
-<a href="www.linkedin.com/in/neha-kumari-65ba151b5" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Neha" /></a>
+<a href="https://www.linkedin.com/in/neha-kumari-65ba151b5/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Neha" /></a>
 <a href="https://github.com/Neha0512" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Neha-linkedin" /></a>
-<!-- <a href="https://twitter.com/prrvishal" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?logoWidth=40style=flat-square&logo=Twitter&logoColor=white" alt="Priyanshu" /></a> -->
+
 <a href="mailto:78rakes@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logoWidth=40style=flat-square&logo=Gmail&logoColor=white" alt="neha-mail" /></a>
 
 </p>

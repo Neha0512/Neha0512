@@ -29,7 +29,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/neha-kumari-65ba151b5/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Neha" /></a>
 <a href="https://github.com/Neha0512" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Neha-linkedin" /></a>
-
 <a href="mailto:78rakes@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logoWidth=40style=flat-square&logo=Gmail&logoColor=white" alt="neha-mail" /></a>
 
 </p>
